@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background: #FFFFDD;
+    font-family: 'Poppins';
 }
 
 .container {
@@ -50,11 +51,12 @@ body {
 #encrypt,
 #decrypt {
     background-color: #3498db;
+    font-family: 'Poppins';
     color: #fff;
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 16px; 
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
